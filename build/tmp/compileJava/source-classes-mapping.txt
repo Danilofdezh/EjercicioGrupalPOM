@@ -1,0 +1,6 @@
+com/demoqa/pageobjects/UploadPage.java
+ com.demoqa.pageobjects.UploadPage
+com/demoqa/models/DataInjection.java
+ com.demoqa.models.DataInjection
+com/demoqa/steps/UploadPageSteps.java
+ com.demoqa.steps.UploadPageSteps

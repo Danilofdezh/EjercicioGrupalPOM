@@ -1,0 +1,4 @@
+com/demoqa/tests/runners/PracticeUploadRunner.java
+ com.demoqa.tests.runners.PracticeUploadRunner
+com/demoqa/tests/stepdefinitions/PracticeUploadStepDefinitions.java
+ com.demoqa.tests.stepdefinitions.PracticeUploadStepDefinitions
